@@ -1,6 +1,7 @@
 # Rollercoaster
 
-TODO: Write a gem description
+Ruby String class extension. Adds a method to convert a string to rollercoaster case. <br />
+E.g.: 'test string' => 'TeSt StRiNg'
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    'rollercoaster'.rollercoaster
+    => "RoLlErCoAsTeR"
 
 ## Contributing
 
